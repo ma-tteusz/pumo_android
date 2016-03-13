@@ -1,2 +1,2 @@
 # pumo_android
-projekt pumo
+projekt aplikacji
